@@ -1,0 +1,22 @@
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project {
+  background-color: #DFF5FF;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+}
+
+.project h2 {
+  color: #5356FF;
+  margin-bottom: 10px;
+}
+
+.project p {
+  color: #378CE7;
+  margin-bottom: 5px;
+}
